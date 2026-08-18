@@ -1,6 +1,5 @@
 # Joystick Controlled Plant Spraying Robot
 
-Final project for ECE 314: Elements of Robotics at Miami University (Spring 2024).
 
 ## Project Overview
 An interactive robotics system designed to detect green plant targets using computer vision and target them with a pan-tilt sprayer nozzle, while allowing full chassis mobility via a custom analog joystick IR remote.
